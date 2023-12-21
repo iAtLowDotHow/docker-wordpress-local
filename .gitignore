@@ -1,1 +1,5 @@
 *.code-workspace
+cert
+nginx
+db
+wordpress
