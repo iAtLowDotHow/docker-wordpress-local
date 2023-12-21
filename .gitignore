@@ -3,3 +3,4 @@ cert
 nginx
 db
 wordpress
+*.pem
