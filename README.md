@@ -15,7 +15,7 @@ Run the `create-cert` script to create SSL certificates for local https support.
 Change to main directory and initiate Docker to get up and running!
 
     cd ..
-    docker-compose up
+    docker compose up
 
 You should now have access to the local site dashboard and SQL database using the settings you provided in the `.env` file. Enjoy!
 
@@ -61,4 +61,4 @@ Now you are ready to go! Change directories back one:
 
 Run docker compose and the images will be downloaded and your local instance will be setup and accessible at your custom url.
 
-    docker-compose up
+    docker compose up
